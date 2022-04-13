@@ -1,4 +1,4 @@
-# Kaggle Humpback Whale Identification Challenge  1st place code
+# Kaggle Old Whale Identification 1st place code
 
 #### Recent Updates
 [2019.3.1 16:44] uploading mask file
